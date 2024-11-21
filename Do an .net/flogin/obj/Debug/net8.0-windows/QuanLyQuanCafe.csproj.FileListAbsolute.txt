@@ -1,0 +1,244 @@
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.exe
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.deps.json
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.flogin.resources
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.fQuanLy.resources
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\refint\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\ref\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThongTinCaNhan.resources
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fAdmin.resources
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDoanhThu.resources
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThucDon.resources
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fQuanLyBan.resources
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDoanhThu.resources
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.flogin.resources
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.fQuanLy.resources
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThongTinCaNhan.resources
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThucDon.resources
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfoInputs.cache
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfo.cs
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\refint\QuanLyQuanCafe.dll
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.exe
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.deps.json
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.runtimeconfig.json
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
+C:\Users\xfuia\Documents\Zalo Received Files\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\ref\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.exe
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.deps.json
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.runtimeconfig.json
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDoanhThu.resources
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.flogin.resources
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.fQuanLy.resources
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThongTinCaNhan.resources
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThucDon.resources
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\refint\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\ref\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQu.8A743E1D.Up2Date
+C:\Users\ADMIN\Downloads\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDangKy.resources
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDangKy.resources
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDoanhThu.resources
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.flogin.resources
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.fQuanLy.resources
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThongTinCaNhan.resources
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThucDon.resources
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\refint\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.exe
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.deps.json
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQu.8A743E1D.Up2Date
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\ref\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThemBill.resources
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fNhanVien.resources
+C:\Users\ADMIN\Desktop\Do An Net\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fQuanLyBan.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.exe
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.deps.json
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDangKy.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDoanhThu.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.flogin.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fNhanVien.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.fQuanLy.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fQuanLyBan.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThemBill.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThongTinCaNhan.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThucDon.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQu.8A743E1D.Up2Date
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\refint\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an Java\flogin\obj\Debug\net8.0-windows\ref\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.exe
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.deps.json
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDangKy.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDanhMuc.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDoanhThu.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\flogin.flogin.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fNhanVien.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\flogin.fQuanLy.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fQuanLyBan.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThemBill.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThongTinCaNhan.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThucDon.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQu.8A743E1D.Up2Date
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\refint\QuanLyQuanCafe.dll
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\ref\QuanLyQuanCafe.dll
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.exe
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.deps.json
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.runtimeconfig.json
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.dll
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDangKy.resources
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDanhMuc.resources
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDoanhThu.resources
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\flogin.flogin.resources
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fNhanVien.resources
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\flogin.fQuanLy.resources
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fQuanLyBan.resources
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThemBill.resources
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThongTinCaNhan.resources
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThucDon.resources
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.Properties.Resources.resources
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfoInputs.cache
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfo.cs
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQu.8A743E1D.Up2Date
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.dll
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\refint\QuanLyQuanCafe.dll
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
+D:\Code.Net\Do An Net - Copy (3)\Do an .net\flogin\obj\Debug\net8.0-windows\ref\QuanLyQuanCafe.dll
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.exe
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.deps.json
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.runtimeconfig.json
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.dll
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\bin\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDangKy.resources
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDanhMuc.resources
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fDoanhThu.resources
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\flogin.flogin.resources
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fNhanVien.resources
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\flogin.fQuanLy.resources
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fQuanLyBan.resources
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThemBill.resources
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThongTinCaNhan.resources
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.fThucDon.resources
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.Properties.Resources.resources
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfoInputs.cache
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfo.cs
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQu.8A743E1D.Up2Date
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.dll
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\refint\QuanLyQuanCafe.dll
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
+D:\Code.Net\Nhóm 13- DHTI15A21HN\Do an .net\flogin\obj\Debug\net8.0-windows\ref\QuanLyQuanCafe.dll

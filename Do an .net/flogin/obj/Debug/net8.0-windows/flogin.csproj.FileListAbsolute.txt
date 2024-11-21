@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\bin\Debug\net8.0-windows\flogin.exe
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\bin\Debug\net8.0-windows\flogin.deps.json
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\bin\Debug\net8.0-windows\flogin.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\bin\Debug\net8.0-windows\flogin.dll
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\bin\Debug\net8.0-windows\flogin.pdb
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.flogin.resources
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.dll
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\refint\flogin.dll
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.pdb
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\ref\flogin.dll
+C:\Users\ADMIN\Desktop\Do An Java\Do an Java\flogin\obj\Debug\net8.0-windows\flogin.fQuanLy.resources
